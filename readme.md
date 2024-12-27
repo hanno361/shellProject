@@ -25,12 +25,13 @@ Proje, aşağıdaki kütüphaneler ve POSIX sistem çağrılarını kullanır:
 Shell yorumlayıcısını derlemek için aşağıdaki komut kullanılabilir:
 ```bash
 gcc -o myshell myshell.c
-
+```
 
 ### 2. Çalıştırma
 Programı başlatmak için:
 ```bash
 ./myshell
+```
 
 ### 3. Örnek Komutlar
 #### Normal Komut: ls -l
