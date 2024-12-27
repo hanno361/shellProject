@@ -1,8 +1,7 @@
 /*
- * Author: [Grup Üyeleri: Kadir Ataç, Murat Yılmaz, Ömer Asaf Balıkçı, Ahmet Safa Erginöz]
+ * Author: [Grup Üyeleri: Kadir Ataç, Murat Yılmaz, Ömer Asaf Balıkçı, Ahmet Safa Erginöz, NIHAD GADIRLI]
  * Proje İsmi: İşletim Sistemleri Ödevi - Basit Bir Komut Satırı Yorumlayıcısı
  * Açıklama: Bu proje, kullanıcının girdiği komutları analiz eden ve çalıştıran bir komut satırı yorumlayıcısını simüle eder.
- * Tarih: 24.12.2024
  */
 
 #include <stdio.h>     // printf, perror, fflush için gerekli
