@@ -1,6 +1,3 @@
-
----
-
 ### **5. Projeyi Windows Ortamında Çalıştırma**
 
 #### 5.1 **Linux Ortamı Sağlama**
@@ -26,3 +23,7 @@ Windows üzerinde Linux projesini çalıştırmak için şunları kullanabilirsi
 2. **Projeyi Derleme**:
    ```bash
    make
+
+
+Hazırlayanlar:
+Kadir Ataç B221210020 - Ömer Asaf Balıkçı B221210083 - Nihat Qadirli B221210554 - Ahmet Safa Erginöz B221210095 - Murat Yılmaz B221210029
