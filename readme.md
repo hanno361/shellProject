@@ -34,10 +34,10 @@ Programı başlatmak için:
 ```
 
 ### 3. Örnek Komutlar
-Normal Komut: ls -l
-Arka Plan İşlemi: sleep 10 &
-Giriş Yönlendirme: cat < input.txt
-Çıkış Yönlendirme: echo "Hello World" > output.txt
+- Normal Komut: ls -l
+- Arka Plan İşlemi: sleep 10 &
+- Giriş Yönlendirme: cat < input.txt
+- Çıkış Yönlendirme: echo "Hello World" > output.txt
 
 
 ### Hazırlayanlar
